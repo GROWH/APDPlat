@@ -44,8 +44,8 @@
     </properties>
 
     <modules>
-          <module>APDPlat_Core</module>
-          <module>APDPlat_Module</module>
+<!--          <module>APDPlat_Core</module>-->
+<!--          <module>APDPlat_Module</module>-->
           <module>APDPlat_Web</module>
     </modules>
 </project>
